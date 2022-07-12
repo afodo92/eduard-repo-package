@@ -125,18 +125,6 @@
 					"name": "Name2",
 					"testPath": "main/simpleTestCase/test_cases/nothing.fftc"
 				}
-			],
-			"startupTasks": [
-				{
-					"addRepositoryNamePrefix": "true",
-					"testPath": "activity-catalog-assets/regression/velo-7159_1.fftc"
-				}				
-			],
-			"teardownTasks": [
-				{
-					"addRepositoryNamePrefix": "true",
-					"testPath": "activity-catalog-assets/regression/velo-7159_1.fftc"
-				}
 			]
 		}
 	]

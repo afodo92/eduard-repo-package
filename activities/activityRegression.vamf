@@ -118,6 +118,7 @@
 				{
 					"addRepositoryNamePrefix": "false",
 					"name": "Name1",
+					"allowToRunWithOptions":true,
 					"testPath": "main/simpleTestCase/test_cases/nothing.fftc"
 				},
 				{

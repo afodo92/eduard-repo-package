@@ -1,2 +1,2 @@
 # eduard-repo-package
-Package for Activity Catalog demo
+Package for Activity Catalog demo.

@@ -22,7 +22,7 @@
                                         <actionsWhenTrue>
                                             <item actionId="DeclareExecutionIssue">
                                                 <actionProperties type="com.fnfr.svt.execution.builtin.actions.ExecutionIssuePropertyGroup" severity="OK">
-                                                    <message>Pass</message>
+                                                    <message>Passed</message>
                                                 </actionProperties>
                                             </item>
                                             <item actionId="PassTestIfNotAlreadyFailed">
@@ -32,7 +32,7 @@
                                         <actionsWhenFalse>
                                             <item actionId="DeclareExecutionIssue">
                                                 <actionProperties type="com.fnfr.svt.execution.builtin.actions.ExecutionIssuePropertyGroup">
-                                                    <message>Fail</message>
+                                                    <message>Failed</message>
                                                 </actionProperties>
                                             </item>
                                             <item actionId="FailTest">

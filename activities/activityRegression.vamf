@@ -1,6 +1,6 @@
 {
 	"name": "Activity Regression",
-	"shortDescription": "Activity used for Regression tests",
+	"shortDescription": "Activity used for Regression tests - new desc test",
 	"icon": "activityRegression.svg",
 	"descriptionMarkdown": "activityRegression.md",
 	"topology": [

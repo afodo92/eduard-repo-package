@@ -3,6 +3,7 @@
 	"shortDescription": "Activity used for Regression tests - new desc test",
 	"icon": "activityRegression.svg",
 	"descriptionMarkdown": "activityRegression.md",
+	"priority": 101,
 	"topology": [
 		{
 			"name": "Topology Logical",

@@ -3,7 +3,7 @@
 	"shortDescription": "Demo Activity configured for SCL tests 2",
 	"icon": "customActivityManual.svg",
 	"descriptionMarkdown": "customActivityManual.md",
-	"priority": 20,
+	"priority": 150,
 	"topology": [
 		{
 			"name": "demo-Test Topology 1",

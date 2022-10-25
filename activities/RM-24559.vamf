@@ -3,6 +3,7 @@
 	"shortDescription": "Demo Activity with new implementation for adding prefix for items",
 	"icon": "customActivityManual.svg",
 	"descriptionMarkdown": "customActivityManual.md",
+	"priority": 100,
 	"topology": [
 		{
 			"name": "demo-Test Topology 1",

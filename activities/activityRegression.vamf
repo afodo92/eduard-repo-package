@@ -1,6 +1,6 @@
 {
 	"name": "Activity Regression",
-	"shortDescription": "Activity used for Regression tests - new desc test",
+	"shortDescription": "Activity used for Regression tests",
 	"icon": "activityRegression.svg",
 	"descriptionMarkdown": "activityRegression.md",
 	"priority": 101,

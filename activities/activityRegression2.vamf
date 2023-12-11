@@ -1,0 +1,32 @@
+{
+	"name": "Activity Regression 2",
+  "shortDescription": "Activity used for Regression tests (no automation)",
+	"icon": "activityRegression.svg",
+	"descriptionMarkdown": "activityRegression.md",
+	"priority": 101,
+	"topology": [
+		{
+			"name": "Topology Logical",
+			"addRepositoryNamePrefix": "false",
+			"actionTitle": "Reserve",
+			"description": "Topology reservation with Static Automation only",
+			"reservationDuration": "60"
+		},
+		{
+			"name": "Topology Abstract",
+			"addRepositoryNamePrefix": "false",
+			"actionTitle": "Reserve",
+			"description": "Topology reservation with mixed Automation",
+			"reservationDuration": "5",
+			"intervalToRunEndTestCase": "60"
+		},
+		{
+			"name": "Topology Abstract 2",
+			"addRepositoryNamePrefix": "false",
+			"actionTitle": "Reserve",
+			"description": "Topology reservation with Startup/Teardown and Automation",
+			"reservationDuration": "5",
+			"intervalToRunEndTestCase": "60"
+		}
+	]
+}
